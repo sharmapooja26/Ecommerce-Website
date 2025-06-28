@@ -5,7 +5,7 @@ import BestSeller from "../components/BestSeller";
 
 import NewsletterBox from "../components/NewsletterBox";
 import Testimonials from "../components/Testimonials";
-import FaQ from "../components/FaQ.JSX";
+import FaQ from "../components/FaQ.jsx";
 
 const Home = () => {
   return (
